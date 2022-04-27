@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iribama
 - 👀 I’m interested in technical writing and front end development.
-- 🌱 I’m currently learning hmtl,css.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning hmtl,css and javascript soon.
+- 💞️ No collaborations for the mean time.
 - 📫 How to reach me
 - twitter @IsaacRejoice2
 - isaacrejoice011@gmail.com ...
